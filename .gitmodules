@@ -1,12 +1,15 @@
 [submodule "rewired-react-app"]
 	path = rewired-react-app
 	url = https://github.com/cmKangkang/template-rewired-cra.git
-[submodule "ejected-react-app"]
-	path = ejected-react-app
-	url = https://github.com/cmKangkang/template-ejected-cra.git
-[submodule "webpack-react-app"]
-	path = webpack-react-app
-	url = https://github.com/cmKangkang/template-cwa.git
 [submodule "ts-html-app"]
 	path = ts-html-app
 	url = https://github.com/cmKangkang/template-html.git
+[submodule "ts-monorepo-starter"]
+	path = ts-monorepo-starter
+	url = https://github.com/rankangkang/ts-monorepo-starter.git
+[submodule "node-lib-starter"]
+	path = node-lib-starter
+	url = https://github.com/rankangkang/node-lib-starter.git
+[submodule "web-lib-starter"]
+	path = web-lib-starter
+	url = https://github.com/rankangkang/web-lib-starter.git
